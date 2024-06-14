@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnbabatope
-- 👀 I’m interested in Sql Server Databases and new business ventures and a pool of ideas
-- 🌱 I’m currently learning marketing and how to use sql server to improve my business
-- 💞️ I’m looking to collaborate on sql server experts
+- 👀 I’m interested in Sql Server Databases, AI and new business ventures and a pool of ideas
+- 🌱 I’m currently learning marketing and how market and grow AI products
+- 💞️ I’m looking to collaborate on AI experts
 - 📫 How to reach me ... here.
 
 <!---
